@@ -1,0 +1,7 @@
+
+AVRASM ver. 2.1.42  I:\labs\lab2\Ports.asm Tue Nov 28 16:54:45 2023
+
+
+CSEG M1           0000018a
+CSEG N1           00000196
+CSEG M2           0000019a
